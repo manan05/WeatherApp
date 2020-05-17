@@ -1,6 +1,7 @@
 # WeatherApp
 Weather app using the free api from openweathermap.org
 In this app one can see the details like sunrise, sunset, wind, pressure, humidity.
+
 [Redirect to openweathermap.org](https://openweathermap.org/api)
 
 ### Sample Images:
